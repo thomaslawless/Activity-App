@@ -1,0 +1,17 @@
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll

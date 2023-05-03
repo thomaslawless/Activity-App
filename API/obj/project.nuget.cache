@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaEGnTUMtr1T9jdkTtS8VgrGZWIcogaUKv6Dd5fA3scUDQMQmjDFXTeZAkV3Qij6YKw/kT+b5m9O9KpzWHBLhg==",
+  "success": true,
+  "projectFilePath": "/Users/tom/Developer/dotnet/social-app/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/tom/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/tom/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tom/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/tom/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/tom/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/tom/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/tom/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
