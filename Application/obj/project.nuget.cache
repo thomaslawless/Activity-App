@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HlvF72eyZvwBKjwXL03ZSkTEm/sXTG1S6vxF8V+QAcLE7TKCws4KF7bvvXBe4v7bF0LzyqbqA8d2LaeAK5ICtw==",
+  "dgSpecHash": "gEA0TQxi6XQUaIvjByKXeYttp+oKcGAjvombNFm6GN8rXn8H+Buw2oBgLHNkxD1pJKyQtf98Y2q748UV366mbg==",
   "success": true,
   "projectFilePath": "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/tom/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/tom/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/tom/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/tom/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/tom/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/Users/tom/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
