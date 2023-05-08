@@ -10,3 +10,15 @@
 /Users/tom/Developer/dotnet/social-app/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/tom/Developer/dotnet/social-app/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
 /Users/tom/Developer/dotnet/social-app/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/tom/Developer/dotnet/Activity-App/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/tom/Developer/dotnet/Activity-App/Domain/bin/Debug/net7.0/Domain.dll
+/Users/tom/Developer/dotnet/Activity-App/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.dll
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/tom/Developer/dotnet/Activity-App/Domain/obj/Debug/net7.0/ref/Domain.dll

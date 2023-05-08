@@ -5,32 +5,28 @@ import axios from 'axios';
 
 function App() {
   //store activities, set activities
-  const [activities, setActivites] = useState();
+  const [activities, setActivites] = useState([]);
 
   useEffect(() => {
     axios.get('http://localhost:5000/api/activities')
       .then(response => {
+        console.log(response);
         setActivites(response.data);
       })
-  })
+  }, [])
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ul>
+        {activities.map((activity: any) => (
+          <li key={activity.id}>
+            {activity.title}
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
+
 
 export default App;

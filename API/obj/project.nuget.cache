@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Lbm25zpxKwAtDe2ZnVsY5wgpBYQe46yFv/GrxA+xg2S3DMDkg7ApUcM3pFWgQVj4jOtEu2IrNCj/RAkQvjyUg==",
+  "dgSpecHash": "LVGlWDD+k3slSJWAk09w4SlNNio+uBCrfGK2ec76Y8S4U6j5hHzdtPEG+IWDSi4wKkJwF+C1NpTR2ynVGNf8jw==",
   "success": true,
-  "projectFilePath": "/Users/tom/Developer/dotnet/social-app/Reactivities/API/API.csproj",
+  "projectFilePath": "/Users/tom/Developer/dotnet/Activity-App/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/tom/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/tom/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bpTcl8JQjNgHUst6RLb472bp9YSKNNt0l1qQpjeamqkNGU4xKWKnqaYyTJsYYjyqoGXF5aoN/nXPJl2syxzGlQ==",
+  "dgSpecHash": "XKXLQnRJcMejWS2KOZ3tAxoPxUnQ1aigEof0d4pAmvkVBJvKGmzLQ9jRkoIZ1AUIVEmI4KCJ77QhvcTszVfjow==",
   "success": true,
-  "projectFilePath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
