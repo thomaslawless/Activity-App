@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEA0TQxi6XQUaIvjByKXeYttp+oKcGAjvombNFm6GN8rXn8H+Buw2oBgLHNkxD1pJKyQtf98Y2q748UV366mbg==",
+  "dgSpecHash": "n0xcaiNp00OSY3eptzgHcRfI+DmfvjsMwUMHYmLFH7XF37zoFnXu0zviIpEkPOCBxSlVp+VsuzK32vo7wTmfFw==",
   "success": true,
-  "projectFilePath": "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj",
+  "projectFilePath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/tom/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/tom/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",

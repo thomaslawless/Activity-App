@@ -148,3 +148,6 @@
 /Users/tom/Developer/dotnet/Activity-App/API/obj/Debug/net7.0/API.pdb
 /Users/tom/Developer/dotnet/Activity-App/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/tom/Developer/dotnet/Activity-App/API/obj/Debug/net7.0/ref/API.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/API/bin/Debug/net7.0/MediatR.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/tom/Developer/dotnet/social-app/Reactivities/API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

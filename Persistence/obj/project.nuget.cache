@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHcrRrGLzmsd9I8ethZO0mYI3iEKfWuQVX3mPxNbTNTMs2rkuzo6HVWbSc+H0NEFoAW2f0TvT4XcU1MCo3T7Vg==",
+  "dgSpecHash": "/1YvsiK3/CZ+1l4mfGDV0Y9LOkiGuGoId8RukR+vqaQ/B+lv2nOAlDz15JJMQS2wgKNH23plvN7qwQAUJOOT5A==",
   "success": true,
-  "projectFilePath": "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/tom/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/tom/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj": {}
+    "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj": {
+    "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj",
+        "projectUniqueName": "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Application/Application.csproj",
+        "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/Application.csproj",
         "packagesPath": "/Users/tom/.nuget/packages/",
-        "outputPath": "/Users/tom/Developer/dotnet/Activity-App/Application/obj/",
+        "outputPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tom/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj": {
-                "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj"
+              "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj"
               },
-              "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj"
+              "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -66,18 +66,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj": {
+    "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj",
+        "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/Users/tom/.nuget/packages/",
-        "outputPath": "/Users/tom/Developer/dotnet/Activity-App/Domain/obj/",
+        "outputPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tom/.nuget/NuGet/NuGet.Config"
@@ -86,7 +86,6 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,18 +119,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj": {
+    "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Persistence/Persistence.csproj",
+        "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/Users/tom/.nuget/packages/",
-        "outputPath": "/Users/tom/Developer/dotnet/Activity-App/Persistence/obj/",
+        "outputPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tom/.nuget/NuGet/NuGet.Config"
@@ -140,15 +139,14 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj": {
-                "projectPath": "/Users/tom/Developer/dotnet/Activity-App/Domain/Domain.csproj"
+              "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/tom/Developer/dotnet/social-app/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -184,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
